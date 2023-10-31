@@ -13,5 +13,9 @@ by typing cmd or open terminal by right click on the mouse
 
 git clone https:,,,
 
-2nd step 
+2nd step  how to send the data to the github or save the file to the github 
+ git add .
+ git commit -m"added the code whatever message you want to write "
+ git push origin branchName
+ note -: the branchName will be in the left bottom parts 
 
